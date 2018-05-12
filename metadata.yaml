@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '39900'
     url: http://www.gutenberg.org/2009/agents/39900
 description: Volume 2 contains only The Gulistan.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13060#The-Persian-Literature-Comprising-The-Shah-Nameh-The-Rubaiyat-The-Divan-and-The-Gulistan-Volu_
 gutenberg_issued: '2004-07-30'
 gutenberg_type: Text
 identifiers:
