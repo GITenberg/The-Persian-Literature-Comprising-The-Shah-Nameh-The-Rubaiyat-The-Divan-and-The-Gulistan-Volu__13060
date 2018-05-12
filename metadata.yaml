@@ -1,0 +1,40 @@
+_repo: The-Persian-Literature-Comprising-The-Shah-Nameh-The-Rubaiyat-The-Divan-and-The-Gulistan-Volu__13060
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ross, James
+    birthdate: 1759
+    deathdate: 1831
+    gutenberg_agent_id: '5662'
+    url: http://www.gutenberg.org/2009/agents/5662
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sadi
+    aliases:
+    - Saudee, Sheik Muslahuddeen
+    - Saadi, Mulikhiddin
+    - Saadi, Muslikhiddin
+    - Saadi, Mushrifaddin
+    - Saati
+    - Saadi
+    - Sadee
+    gutenberg_agent_id: '39900'
+    url: http://www.gutenberg.org/2009/agents/39900
+description: Volume 2 contains only The Gulistan.
+gutenberg_issued: '2004-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Persian literature -- Translations into English'
+- !lcc 'PJ'
+title: The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan,
+  and The Gulistan, Volume 2
+url: http://www.gutenberg.org/ebooks/13060
